@@ -1,0 +1,6 @@
+CC=gcc-13
+CXX=g++-13
+CXX1X=g++-13
+PKG_LIBS=-L$(R_HOME)/bin -lRblas
+
+

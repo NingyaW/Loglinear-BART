@@ -1,0 +1,3 @@
+PKG_LIBS=-L$(R_HOME)/bin -lRblas
+PKG_CXXFLAGS = -std=gnu++17
+
